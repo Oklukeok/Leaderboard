@@ -1,0 +1,22 @@
+.board {
+  display: flex;
+}
+
+.scoresTable {
+  display: flex;
+  flex-direction: column;
+}
+
+.tableHead {
+  display: flex;
+}
+
+.tableHead_button {
+  display: flex;
+}
+
+.tableBody {
+  width: 400px;
+  height: 400px;
+  background-color: cadetblue;
+}
