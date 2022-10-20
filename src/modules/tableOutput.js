@@ -14,7 +14,6 @@ const myFunction = async () => {
   .then((response) => response.json())
   .then((json) => retrieve(json))
   .catch((err) => console.log(err));
-  
   }
   myFunction();
 
