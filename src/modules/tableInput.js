@@ -17,6 +17,3 @@ document.getElementById('submitButton').addEventListener('click', () => {
     .catch((err) => console.log(err));
 });
 
-// KISS !
-
-// location.reload();
